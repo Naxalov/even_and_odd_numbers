@@ -2,19 +2,21 @@
 
 
 #Create a variable "var_int" and assign it a four-digit integer value.
-var_int = 2345
+number = 2345
 
-x1 = var_int % 10
-var_int//=10
+x1 = number % 10
+number//=10
 
-x2 = var_int % 10
-var_int//=10
+x2 = number % 10
+number//=10
 
-x3 = var_int % 10
-var_int//=10
+x3 = number % 10
+number//=10
 
-x4 = var_int % 10
-var_int//=10
+x4 = number % 10
+number//=10
 
 #Print the number of odd digits in the variable "var_int".
-print(x1,x2,x3,x4)
+var_int = x1%2+x2%2+x3%2+x4%2
+print(var_int)
+
