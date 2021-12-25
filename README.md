@@ -1,5 +1,11 @@
 # Welcome 
 # DIGITS AND NUMBER (PRACTICE)
+## level
+- Basic
+- Beginner
+- Intermediate
+- Mixed
+- Advanced
 
 
 Automated grading of homework assignments and tests
