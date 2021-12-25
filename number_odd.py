@@ -2,7 +2,7 @@
 
 
 #Create a variable "var_int" and assign it a four-digit integer value.
-number = 2345
+number = 7735
 
 x1 = number % 10
 number//=10
